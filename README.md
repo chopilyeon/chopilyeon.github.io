@@ -2,7 +2,7 @@
 ## Welcome to GitHub Pages
 ###subsub headline
 
-<img src="image.jpg"/><br>
+<img src="다운로드.jfif"/><br>
 [_발표자료](/project.pptx)<br>
 
 #동영상입니다.
