@@ -1,6 +1,6 @@
 # 조재희 홈페이지
 ## Welcome to GitHub Pages
-###subsub headline
+
 
 <img src="다운로드.jfif"/><br>
 [_발표자료](/ch1.Github(1).pdf)<br>
