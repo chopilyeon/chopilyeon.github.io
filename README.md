@@ -28,7 +28,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |조재희|![JHJo](/gdko.jpg)|
+|이름 |조재희|![JHJo](/조재희1.jpg)|
 |연락처 | jaehee3679(@)daum.net|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
@@ -37,7 +37,7 @@
 || 2021년 사회조사분석사 2급 |
 || 2021년 ADsP |
 |특기사항|  TOEIC 850 |
-||  오목 고수 |
+||  오목 고수,  영화를 사랑함 |
 
 ## 2. 나의 소개 발표 동영상
 나의 소개 동영상입니다.
