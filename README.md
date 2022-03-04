@@ -28,12 +28,12 @@
 
 본인 소개를 추가하세요
 
-|이름 |조재희|![gdKO](/gdko.jpg)|
+|이름 |조재희|![JHJo](/gdko.jpg)|
 |연락처 | jaehee3679(@)daum.net|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
 | | analysis - R,python
-|자격증| 20xx년 빅데이터분석기사|
+|자격증| 2021년 빅데이터분석기사|
 || 2021년 사회조사분석사 2급 |
 || 2021년 ADsP |
 |특기사항|  TOEIC 850 |
