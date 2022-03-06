@@ -28,7 +28,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |조재희|![jhJO](/img src = "조재희님1.jpg" width="50%" height="50%">
+|이름 |조재희|![jhJO]</img src = "조재희님1.jpg" width="50%" height="50%">
 |연락처 | jaehee3679(@)daum.net|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
