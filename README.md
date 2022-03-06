@@ -2,8 +2,7 @@
 ## Welcome to GitHub Pages
 
 
-<img src="다운로드.jfif"/><br>
-[_발표자료](/ch1.Github(1).pdf)<br>
+<img src="images.jpeg/><br>
 
 #발표 동영상입니다.
 <iframe width="896" height="504" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
