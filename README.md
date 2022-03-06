@@ -6,7 +6,8 @@
 [_발표자료](/ch1.Github(1).pdf)<br>
 
 #발표 동영상입니다.
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/3rsrXXaXFe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #유용한 링크<br>
 [네이버 홈]
@@ -41,7 +42,7 @@
 
 ## 2. 나의 소개 발표 동영상
 나의 소개 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br><br>
 
