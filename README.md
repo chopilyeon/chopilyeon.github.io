@@ -2,7 +2,7 @@
 ## Welcome to GitHub Pages
 
 
-<img src="images.jpeg/><br>
+<img src="images.jpeg"/><br>
 
 #발표 동영상입니다.
 <iframe width="896" height="504" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,7 +28,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |조재희|![jhJO](/조재1.jpg)|
+|이름 |조재희|![jhJO](/조재희님1.jpg)|
 |연락처 | jaehee3679(@)daum.net|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
