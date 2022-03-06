@@ -29,7 +29,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |조재희|![jhJO](/조재희1.jpg)|
+|이름 |조재희|![jhJO](/조재1.jpg)|
 |연락처 | jaehee3679(@)daum.net|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
