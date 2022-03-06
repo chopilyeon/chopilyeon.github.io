@@ -47,7 +47,7 @@
 <video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br><br>
 
  
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br>
+[발표자료<img src="ppt.JPG"/>](/2260341020_조재희.pdf)<br>
 
 ## 3. IT 경험
 
