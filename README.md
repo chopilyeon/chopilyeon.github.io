@@ -8,6 +8,15 @@
 <iframe width="896" height="504" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+#도서 관리 프로그램
+<iframe width="853" height="480" src="https://www.youtube.com/embed/QYT9JpAlSCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#도서 관리 프로그램
+<iframe width="853" height="480" src="https://www.youtube.com/embed/iSeSz0iCzBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 #유용한 링크<br>
 [네이버 홈]
 (https://naver.com)
