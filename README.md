@@ -31,7 +31,7 @@
 나의 소개 동영상입니다.<br>
 <iframe width="896" height="504" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br><br>
+<video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br>
 
  
 ## 3. IT 경험<br>
@@ -44,6 +44,7 @@
 <iframe width="698" height="393" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DBMS와 다른 언어와 연동해서 시각화하기<br>
+
 https://www.notion.so/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26
 
 
