@@ -45,7 +45,7 @@
 
 ## DBMS와 다른 언어와 연동해서 시각화하기<br>
 
-https://www.notion.so/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26
+[DBMS 연동해서 시각화하기](https://www.notion.so/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26)
 
 
 
