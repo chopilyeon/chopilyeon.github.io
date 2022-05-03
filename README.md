@@ -1,10 +1,10 @@
 # 조재희 홈페이지<br>
 ## Welcome to GitHub Pages<br>
 
-# 자기소개<br>
+## 자기소개<br>
 
 
-# 조재희의 github 홈페이지<br>
+## 조재희의 github 홈페이지<br>
 |이름|조재희|
 
 
