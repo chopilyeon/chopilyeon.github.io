@@ -45,7 +45,7 @@
 
 ## DBMS와 다른 언어와 연동해서 시각화하기<br>
 
-[DBMS 연동해서 시각화하기](https://www.notion.so/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26)
+[DBMS 연동해서 시각화하기](https://wave-eustoma-b89.notion.site/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26)
 
 
 
@@ -54,7 +54,7 @@
 ||과목 |기간|개요 |
 |1|[git](https://github.com/chopilyeon/Git_Manual/)|2022년 3월|git 사용법 |
 |2|[java](https://github.com/chopilyeon/JAVA/)|2022년 3월|java 기초|
-|3|[SQL](https://www.notion.so/LINUX-ORACLE-DBMS-8178cf852f434e95811ba2ce90225e14)|2022년 4월|sql 기초 |
+|3|[SQL](https://wave-eustoma-b89.notion.site/LINUX-ORACLE-DBMS-8178cf852f434e95811ba2ce90225e14)|2022년 4월|sql 기초 |
 |||||
 |||||
 |||||
