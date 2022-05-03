@@ -8,12 +8,6 @@
 <iframe width="896" height="504" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#도서 관리 프로그램
-<iframe width="698" height="393" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#도서 관리 프로그램
-<iframe width="698" height="393" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #자기소개
 
 
@@ -48,10 +42,22 @@
  
 ## 3. IT 경험
 
+
+#도서 관리 프로그램
+<iframe width="698" height="393" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#도서 관리 프로그램
+<iframe width="698" height="393" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
 ||과목 |기간|개요 |
-|1|[git](https://chopilyeon.github.io/-./)|20xx년 3월|git 사용법 |
-|2|[java](https://chopilyeon.github.io/-./)|20xx년 3월|java 기초|
-|3|[SQL](https://chopilyeon.github.io/-./)|20xx년 4월|sql 기초 |
+|1|[git](https://github.com/chopilyeon/Git_Manual/)|2022년 3월|git 사용법 |
+|2|[java](https://github.com/chopilyeon/JAVA/)|2022년 3월|java 기초|
+|3|[SQL](https://www.notion.so/LINUX-ORACLE-DBMS-8178cf852f434e95811ba2ce90225e14)|2022년 4월|sql 기초 |
 |||||
 |||||
 |||||
