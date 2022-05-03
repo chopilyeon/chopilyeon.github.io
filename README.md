@@ -36,10 +36,10 @@
 ## 3. IT 경험
 
 
-## 도서 관리 프로그램
+## 도서 관리 프로그램(파일 입출력 API 방식)
 <iframe width="698" height="393" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 도서 관리 프로그램
+## 도서 관리 프로그램(IN-MEMORY 방식)
 <iframe width="698" height="393" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DBMS와 다른 언어와 연동해서 시각화하기
