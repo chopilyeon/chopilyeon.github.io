@@ -29,23 +29,48 @@
 ## 2.나의 소개 발표 동영상<br>
 
 나의 소개 동영상입니다.<br>
-<iframe width="240" height="100" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 <video width="250" src="gmkopo.mp4" autoplay controls loop muted></video><br>
 
  
 ## 3. IT 경험<br>
 
+# JAVA
 
 ## 도서 관리 프로그램(파일 입출력 API 방식)<br>
-<iframe width="240" height="100" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ## 도서 관리 프로그램(IN-MEMORY 방식)<br>
-<iframe width="240" height="100" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+# LINUX
+
+## web was 연동시키기 
+<iframe width="300" height="150" src="https://www.youtube.com/embed/VrJsIHXNq5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+
+## web logic 
+<iframe width="300" height="150" src="https://www.youtube.com/embed/URzTJj--QsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+
+## google cloud로 web was 연동시키기 
+<iframe width="300" height="150" src="https://www.youtube.com/embed/VMMAVo4nr30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+
+# DATABASE
 
 ## DBMS와 다른 언어와 연동해서 시각화하기<br>
 
-[DBMS 연동해서 시각화하기](https://wave-eustoma-b89.notion.site/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26)
+[DBMS 연동해서 시각화하기](https://wave-eustoma-b89.notion.site/INSIGHT-334fe47ed0374a099c87e7eb9bba7e26)<br>
+
+## ORACLE DBMS를 LINUX위에 설치해보자. 
+[ORACLE DBMS 설치] (https://wave-eustoma-b89.notion.site/LINUX-ORACLE-DBMS-8178cf852f434e95811ba2ce90225e14)<br>
+
+
 
 
 
