@@ -29,19 +29,19 @@
 ## 2.나의 소개 발표 동영상<br>
 
 나의 소개 동영상입니다.<br>
-<iframe width="300" height="100" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/mMnae9IVsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br>
+<video width="250" src="gmkopo.mp4" autoplay controls loop muted></video><br>
 
  
 ## 3. IT 경험<br>
 
 
 ## 도서 관리 프로그램(파일 입출력 API 방식)<br>
-<iframe width="350" height="393" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/YS1G5wik_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 도서 관리 프로그램(IN-MEMORY 방식)<br>
-<iframe width="350" height="393" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="100" src="https://www.youtube.com/embed/qSjuKNe8xIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DBMS와 다른 언어와 연동해서 시각화하기<br>
 
